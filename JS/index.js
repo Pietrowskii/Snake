@@ -207,5 +207,3 @@ playAgainButton.addEventListener('click', () => {
     loseMenu.classList.remove('inlose');
     Start();
 });
-
-
